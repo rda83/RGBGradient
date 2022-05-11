@@ -1,6 +1,6 @@
 # Gradient calculator library
 
-C# library to Calculate RGB gradient value between two different colors.
+C# library to calculate RGB gradient value between two different colors.
 
 Demo:
 
