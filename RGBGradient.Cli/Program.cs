@@ -7,8 +7,8 @@ namespace RGBGradient.Demo
     {
         static void Main(string[] args)
         {
-            Color endVal = Color.FromArgb(99, 236, 133);
             Color beginVal = Color.FromArgb(255, 191, 133);
+            Color endVal = Color.FromArgb(99, 236, 133);
 
             GradientCalculator gradientCalculator = new GradientCalculator();         
 

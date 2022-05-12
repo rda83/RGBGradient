@@ -9,7 +9,7 @@ namespace RGBGradient
         /// <param name="beginVal">Begin gradient value.</param>
         /// <param name="endVal">End gradient value.</param>
         /// <param name="stepNumber">Сalculated gradient step.</param>
-        /// <param name="totalSteps">Total of gradient steps.</param> всего шагов
+        /// <param name="totalSteps">Total of gradient steps.</param>
         /// <returns>
         ///   Instance of Color with RGB values corresponding to the given gradient step.
         /// </returns>
